@@ -81,35 +81,82 @@ foodDelivery_app/
 
 ```bash
 git clone https://github.com/KomalTrivedi257/foodDelivery_app.git
-📁 2️⃣ Install Backend Dependencies
-cd foodDelivery_app/backend
-(Install based on backend tech — e.g., Node, Express, Java/Spring, Python, etc.)
+```
 
-📁 3️⃣ Install Frontend Dependencies
+---
+
+### 📁 2️⃣ Install Backend Dependencies
+
+```bash
+cd foodDelivery_app/backend
+npm install
+```
+
+> Make sure Node.js is installed.  
+> If using a different backend tech, install dependencies accordingly.
+
+---
+
+### 📁 3️⃣ Install Frontend Dependencies
+
+```bash
 cd ../frontend
 npm install
-▶️ 4️⃣ Run the Application
-👉 Backend
-(Use command based on tech — e.g., npm start, node index.js, etc.)
+```
 
-👉 Frontend
+---
+
+### ▶️ 4️⃣ Run the Application
+
+#### 👉 Start Backend
+
+```bash
 npm start
-Open your browser:
+```
+or
+```bash
+node server.js
+```
 
+#### 👉 Start Frontend
+
+```bash
+npm start
+```
+
+Now open your browser and visit:
+
+```
 http://localhost:3000
-📸 Screenshots
-(Replace these with your real screenshots)
+```
 
+---
+
+## 📸 Screenshots
+
+*(Replace these with your actual screenshots)*
+
+### 🏠 Home Page
 ![Home Page](./screenshots/home.png)
+
+### 🍽️ Menu Page
 ![Menu Page](./screenshots/menu.png)
+
+### 🛒 Cart Page
 ![Cart Page](./screenshots/cart.png)
 
---
-👩‍💻 Author
-Komal Trivedi
+---
 
-GitHub: https://github.com/KomalTrivedi257
+## 👩‍💻 Author
 
-⭐ Support
-If you found this project useful, please ⭐ star this repository and share it!
+**Komal Trivedi**
 
+- GitHub: https://github.com/KomalTrivedi257
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please ⭐ Star this repository and share it!
+
+---
