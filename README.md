@@ -55,11 +55,6 @@ This project includes both **frontend** and **backend** code.
 foodDelivery_app/
 │
 ├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── package.json
 │   └── server.js
 │
 ├── frontend/
@@ -69,18 +64,14 @@ foodDelivery_app/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
-│   │   ├── assets/
 │   │   ├── App.js
 │   │   └── index.js
 │   │
-│   ├── package.json
-│   └── vite.config.js / package.json (depending on setup)
+│   └── package.json
 │
 ├── .gitignore
-├── README.md
-└── package.json (if root level exists)
+└── README.md
 ```
-
 
 ---
 
